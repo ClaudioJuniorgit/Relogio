@@ -1,0 +1,24 @@
+* {
+    font-family: "Roboto";
+}
+
+body {
+    height: 100%;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    background-color: #282828;
+}
+
+h1 {
+    color: #FFFFFF;
+    font-size: 140px;
+    font-weight: 300;
+}
+
+h2 {
+    color: #FFFFFF;
+    font-size: 50px;
+    font-weight: 150;
+    text-align: center;
+}
